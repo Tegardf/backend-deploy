@@ -1,0 +1,16 @@
+Flask
+flask-cors
+gTTS
+imutils
+numpy
+opencv-python
+opencv-contrib-python-headless
+pip-chill
+proto-plus
+protobuf
+pytesseract
+requests
+scipy
+simplejson
+tesseract
+gunicorn
